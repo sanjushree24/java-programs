@@ -1,4 +1,4 @@
-class Evennumberdigits {
+public class Evennumberdigits {
     public int findNumbers(int[] nums) {
         int count=0;
         for (int num : nums){

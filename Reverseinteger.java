@@ -1,4 +1,4 @@
- class Reverseinteger {
+public class Reverseinteger {
     public int reverse(int x) {
         int result = 0;
         
